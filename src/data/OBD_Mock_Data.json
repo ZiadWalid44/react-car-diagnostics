@@ -1,0 +1,27 @@
+{
+  "vehicle_info": {
+    "vin": "VALEO-XP-2025",
+    "model": "AutoCare Demo Car",
+    "status": "Warning"
+  },
+  "live_data": {
+    "rpm": 3200,
+    "speed": 120,
+    "temp": 98,
+    "battery": 12.4
+  },
+  "fault_codes": [
+    {
+      "code": "P0300",
+      "system": "Engine",
+      "description": "Random/Multiple Cylinder Misfire Detected",
+      "severity": "High"
+    },
+    {
+      "code": "P0171",
+      "system": "Fuel",
+      "description": "System Too Lean (Bank 1)",
+      "severity": "Medium"
+    }
+  ]
+}
